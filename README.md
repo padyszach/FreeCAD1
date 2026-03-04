@@ -26,3 +26,4 @@ Po uruchomieniu:
 - parametry zostaną zmodyfikowane w skrypcie,
 - geometria zostanie przeliczona,
 - wygenerowany zostanie plik STL.
+K
