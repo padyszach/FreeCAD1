@@ -7,11 +7,11 @@ Dostęp do FreeCADCmd
 Python wbudowany w FreeCAD (uruchamianie przez FreeCADCmd)
 📂 Struktura projektu
 FreeCAD1/
-3.FCStd          # Parametryczny model CAD
-generate.py          # Skrypt automatyzujący
-bracket.stl          # Wygenerowany plik wynikowy
-config.json      # parametry do modyfikacji
-README.md
+3.FCStd          # Parametryczny model CAD<br>
+generate.py          # Skrypt automatyzujący<br>
+bracket.stl          # Wygenerowany plik wynikowy<br>
+config.json      # parametry do modyfikacji<br>
+README.md<br>
 ⚙️ Parametry modelu
 Model wykorzystuje arkusz Spreadsheet w FreeCAD z aliasami:
 thickness – grubość elementu
